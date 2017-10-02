@@ -19,8 +19,4 @@ alluvial(tit[,c(1:6)], freq=tit$Time,
          border = tit$k
 )
 #export plot with 3000 / 1500
-#trzeba dodać tytół i czytelność do tych zestawień, nauczyć się GITA
-#wrzucić na githuba
-#git na dropboxie
-#dupalupa
 
