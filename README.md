@@ -18,8 +18,8 @@ SkillsAllocation - (Year) how often particular skill was used in a given year
 Time - (time allocation) how often particular skill was used in a given year
 
 Sample:
-Employer,Team,MajorProject,Responsibilities,Skills,SkillsAllocation,Time,Year2
-Citi Handlowy,Credit Card Chargeback Claims,Process localization migration,Software Testing,Test execution,2011,10,2011-2015
-Citi Handlowy,Credit Card Chargeback Claims,Process localization migration,Data analysis,"MS Office (Access, Excel)",2011,20,2011-2015
-Citi Handlowy,Credit Card Chargeback Claims,Process localization migration,Claims analysis,Claims analysis,2011,70,2011-2015
-Citi Handlowy,Prime to ECS+ Migration,Credit Card platform production readiness,Project Management,Project Management,2012,30,2011-2015
+Employer,Team,MajorProject,Responsibilities,Skills,SkillsAllocation,Time,Year2\n
+Citi Handlowy,Credit Card Chargeback Claims,Process localization migration,Software Testing,Test execution,2011,10\n
+Citi Handlowy,Credit Card Chargeback Claims,Process localization migration,Data analysis,"MS Office (Access, Excel)",2011,20\n
+Citi Handlowy,Credit Card Chargeback Claims,Process localization migration,Claims analysis,Claims analysis,2011,70\n
+Citi Handlowy,Prime to ECS+ Migration,Credit Card platform production readiness,Project Management,Project Management,2012,30\n
