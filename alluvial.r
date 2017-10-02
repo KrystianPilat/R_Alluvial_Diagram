@@ -18,5 +18,6 @@ alluvial(tit[,c(1:6)], freq=tit$Time,
          col = tit$k,
          border = tit$k
 )
+mtext("Experience", 3, line=3, font=2, cex=1.5)
 #export plot with 3000 / 1500
 
